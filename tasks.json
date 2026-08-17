@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Flask assignment",
+    "description": "Build CRUD task manager for Alfido Tech",
+    "priority": "High",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "Review pull requests",
+    "description": "Check open PRs on the team repo",
+    "priority": "Medium",
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread",
+    "priority": "Low",
+    "done": false
+  }
+]
